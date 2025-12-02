@@ -69,16 +69,27 @@
 
 ### 🗺️ Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-cherukuru&bg_color=000000&color=F5E6C5&line=D4AF37&point=FFD700&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-cherukuru
+  &bg_color=000000
+  &color=D4AF37
+  &line=FFD700
+  &point=FFF8DC
+  &area=true
+  &area_color=D4AF3722
+  &hide_border=true
+  &radius=12
+  &height=300
+  &custom_title=Aditya%20Cherukuru%20-%20Yearly%20Contribution%20Graph" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-cherukuru&theme=onedark&no-bg=true&no-frame=true&row=1&margin-w=15" />
-</p>
+### 📈 Stats & Streak
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-cherukuru&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=aditya-cherukuru&theme=black-ice&hide_border=true&background=000000&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700" /> </p>
+---
 
+### 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aditya-cherukuru&theme=algolia&no-frame=true&no-bg=true&column=6&title=Commits,Repositories,LongTimeUser,MultiLanguage" /> </p>
 ---
 
 ## 🌐 Connect With Me
