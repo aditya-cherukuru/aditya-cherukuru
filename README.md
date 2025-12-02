@@ -54,42 +54,39 @@
 
 ### ⭐ **GitHub Stats**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-cherukuru&show_icons=true&include_all_commits=true&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya-cherukuru&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aditya-cherukuru&show_icons=true&include_all_commits=true&bg_color=000000&text_color=F5E6C5&icon_color=FFD700&border_color=D4AF37"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=aditya-cherukuru&background=000000&border=D4AF37&fire=FFD700&ring=D4AF37&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5"
+    width="48%"
+  />
 </p>
 
 ---
 
-### 🧮 **Total Contributions (Commits, PRs, Issues, Code Reviews)**  
+### 🧮 **Total Contributions (Commits, PRs, Issues, Code Reviews)**
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-cherukuru&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-cherukuru&theme=github_dark" />
 </p>
 
 ---
 
 ### 🗺️ Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-cherukuru
-  &bg_color=000000
-  &color=D4AF37
-  &line=FFD700
-  &point=FFF8DC
-  &area=true
-  &area_color=D4AF3722
-  &hide_border=true
-  &radius=12
-  &height=300
-  &custom_title=Aditya%20Cherukuru%20-%20Yearly%20Contribution%20Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-cherukuru&bg_color=000000&color=D4AF37&line=FFD700&point=FFF8DC&area=true&area_color=D4AF3722&hide_border=true&radius=12&height=300&custom_title=Aditya%20Cherukuru%20-%20Yearly%20Contribution%20Graph"
+  />
 </p>
 
 ---
 
-### 📈 Stats & Streak
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-cherukuru&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=aditya-cherukuru&theme=black-ice&hide_border=true&background=000000&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700" /> </p>
----
-
 ### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aditya-cherukuru&theme=algolia&no-frame=true&no-bg=true&column=6&title=Commits,Repositories,LongTimeUser,MultiLanguage" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-cherukuru&theme=algolia&no-frame=true&no-bg=true&column=6&title=Commits,Repositories,LongTimeUser,MultiLanguage" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
