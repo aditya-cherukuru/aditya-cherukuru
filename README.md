@@ -7,7 +7,8 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=F5E6C5&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+Kannada+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+Kannada+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
+
 </p>
 
 ---
