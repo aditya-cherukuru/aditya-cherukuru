@@ -30,20 +30,9 @@
 
 ---
 
-## ⚡ Featured Projects & Contributions
-<p align="center">
-<a href="https://github.com/aditya-cherukuru/KannadaTextRecognizer">
-<img src="https://img.shields.io/badge/Kannada_OCR-%F0%9F%94%8D_AI_Model-D4AF37?style=for-the-badge&logo=python&logoColor=000000" />
-</a>
-<a href="https://github.com/aditya-cherukuru/bengaluru-traffic-manager">
-<img src="https://img.shields.io/badge/Traffic_Manager-%F0%9F%9A%A6_Smart_City-D4AF37?style=for-the-badge&logo=javascript&logoColor=000000" />
-</a>
-</p>
-
----
 
 ## 💡 Innovation Highlights  
-- 🧠 **Kannada LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract)  
+- 🧠 **LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract)  
 - 🚦 **Smart City Dashboard** – real-time Bengaluru traffic management  
 - 🌐 **SyncSavr & Portfolios** – cross-platform utilities & C++ engineering  
 - ⚔️ *"Contribution isn’t about credit — it’s about impact."*
