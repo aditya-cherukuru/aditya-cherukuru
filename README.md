@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Aditya%20Cherukuru&fontSize=80&fontColor=D4AF37&fontAlign=50&animation=fadeIn" />
 </p>
 
-<h1 align="center" style="color:#D4AF37;">
+<h1 align="center" style="color:#D4AF40;">
 👋 Hi, I’m <a href="https://github.com/aditya-cherukuru" style="color:#FFD700;">Aditya Cherukuru</a>
 </h1>
 
