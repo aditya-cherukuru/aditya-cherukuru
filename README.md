@@ -40,14 +40,8 @@
 
 ---
 
-# 📊 GitHub Analytics (Fully Working)
-
-### ⭐ GitHub Stats
+### ⭐ Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aditya-cherukuru&show_icons=true&include_all_commits=true&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&cache_seconds=86400"
-    width="48%"
-  />
   <img
     src="https://streak-stats.demolab.com?user=aditya-cherukuru&background=000000&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5&cache_seconds=86400"
     width="48%"
@@ -58,7 +52,7 @@
 
 ---
 
-### 🧮 **Total Contributions (Commits, PRs, Issues, Code Reviews)**
+### 🧮 **Contributions**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-cherukuru&theme=github_dark" />
 </p>
