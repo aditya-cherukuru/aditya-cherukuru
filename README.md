@@ -43,7 +43,7 @@
 ### ⭐ Stats
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=aditya-cherukuru&background=000000&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=F5E6C5&sideLabels=F5E6C5&dates=F5E6C5&cache_seconds=86400"
+    src="https://streak-stats.demolab.com?user=aditya-cherukuru&background=000000&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F5E6C5&dates=F5E6C5&cache_seconds=86400"
     width="48%"
   />
 </p>
