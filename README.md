@@ -1,10 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Aditya%20Cherukuru&fontSize=80&fontColor=D4AF37&fontAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=👋%20Hi%20,%20I’m%20Aditya%20Cherukuru&fontSize=80&fontColor=D4AF37&fontAlign=50&animation=fadeIn" />
 </p>
 
-<h1 align="center" style="color:#D4AF40;">
-👋 Hi, I’m <a href="https://github.com/aditya-cherukuru" style="color:#FFD700;">Aditya Cherukuru</a>
-</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
