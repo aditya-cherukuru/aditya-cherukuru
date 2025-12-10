@@ -12,7 +12,7 @@
 
 ## ⚔️ About Me  
 
-- 🎓 **BCA Scholar at CHRIST University** & Exchange Alumnus (THWS, Germany)  
+- 🎓 **BCA Scholar at CHRIST University** & **Exchange Alumnus at THWS, Germany**  
 - 💻 **Full Stack Specialist** – React, Flutter, Node.js  
 - 🤖 **AI Innovator** – LLMs, OCR, Indic NLP  
 - 🛡️ **Engineering Philosophy** – Precision, Scalability, Global Perspective  
