@@ -32,11 +32,10 @@
 
 
 ## 💡 Innovation Highlights  
-- 🧠 **LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract)  
-- 🚦 **Smart City Dashboard** – real-time Bengaluru traffic management  
+- 🧠 **LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract).
+- 🚦 **Smart City Dashboard** – real-time Bengaluru traffic management.
 - 🌐 **SyncSavr** – cross-platform app designed to track expiring groceries in your fridge and provide recipe recommendations.
-- 📊 **Neo-Fund** - cross platform investment learning platform for teens
-- ⚔️ *"Contribution isn’t about credit — it’s about impact."*
+- 📊 **Neo-Fund** - cross platform investment learning platform for teens.
 
 ---
 
