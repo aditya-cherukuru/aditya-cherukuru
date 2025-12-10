@@ -71,6 +71,6 @@
 
 <p align="center" style="background:#000;">
 <span style="color:#F5E6C5;">
-🥷 “Code quietly. Move strategically. Impact permanently.” ⚔️
+"here to Show, here to Prove"
 </span>
 </p>
