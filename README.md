@@ -8,13 +8,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=aditya-cherukuru&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
-</p>
----
-
 ## ⚔️ About Me  
 
 - 🎓 **BCA Scholar at CHRIST University** & **Exchange Alumnus at THWS, Germany** - 💻 **Full Stack Specialist** – React, Flutter, Node.js  
