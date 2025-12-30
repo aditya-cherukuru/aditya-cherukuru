@@ -7,7 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
 
 </p>
-
+---
+<p>
+  [![trophy](https://github-profile-trophies.vercel.app/?username=Nishthajain14&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophies)
+</p>
 ---
 
 ## ⚔️ About Me  
