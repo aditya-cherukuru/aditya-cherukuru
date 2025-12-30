@@ -10,10 +10,9 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=aditya-cherukuru&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+    <img src="https://github-profile-trophies.vercel.app/?username=aditya-cherukuru&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
   </a>
 </p>
-
 ---
 
 ## ⚔️ About Me  
