@@ -2,21 +2,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=👋%20Hi%20,%20I’m%20Aditya%20Cherukuru&fontSize=60&fontColor=D4AF37&fontAlign=50&animation=fadeIn" />
 </p>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
+</p>
 
-</p>
 ---
-<p>
-  [![trophy](https://github-profile-trophies.vercel.app/?username=Nishthajain14&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophies)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=aditya-cherukuru&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+  </a>
 </p>
+
 ---
 
 ## ⚔️ About Me  
 
-- 🎓 **BCA Scholar at CHRIST University** & **Exchange Alumnus at THWS, Germany**  
-- 💻 **Full Stack Specialist** – React, Flutter, Node.js  
+- 🎓 **BCA Scholar at CHRIST University** & **Exchange Alumnus at THWS, Germany** - 💻 **Full Stack Specialist** – React, Flutter, Node.js  
 - 🤖 **AI Innovator** – LLMs, OCR, Indic NLP  
 - 🛡️ **Engineering Philosophy** – Precision, Scalability, Global Perspective  
 - 🚀 **Mission** – Solving real-world urban & linguistic challenges using AI  
@@ -29,7 +31,6 @@
 </p>
 
 ---
-
 
 ## 💡 Innovation Highlights  
 - 🧠 **LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract).
@@ -47,18 +48,14 @@
 />
 </p>
 
-
-
 ---
 
-### 🧮 **Contributions**
+### 🧮 Contributions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-cherukuru&theme=github_dark" />
 </p>
 
 ---
-
-
 
 ## 🌐 Connect With Me
 <p align="center">
