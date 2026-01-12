@@ -34,10 +34,7 @@
 
 ### ⭐ Stats
 <p align="center">
-  <img
-  src="https://streak-stats.demolab.com?user=aditya-cherukuru&background=000000&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=F5E6C5&dates=F5E6C5&currStreakNum=FFD700&cache_seconds=86400"
-  width="50%"
-/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-cherukuru&theme=shadow_green&hide_border=false" alt="Aditya's GitHub Streak" />
 </p>
 
 ---
