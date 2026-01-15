@@ -34,7 +34,7 @@
 
 ### ⭐ Stats
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-cherukuru&theme=shadow_green&hide_border=false" alt="Aditya's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-cherukuru&theme=github_dark&hide_border=false" alt="Aditya's GitHub Streak" />
 </p>
 
 ---
