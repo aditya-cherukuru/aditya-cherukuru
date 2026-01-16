@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Contributor+%40matrix-org+%26+%40element-hq;Building+Secure+%26+Scalable+Systems;Intern+%40PopularDigitalAI;CS+Student+(Christ+Univ)+%2B+Ex-Exchange+(THWS+DE);Full+Stack+(TS%2C+Python%2C+Solidity)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&color=D4AF37&background=00000000&lines=Contributor+%40matrix-org+%26+%40element-hq;Building+Secure+%26+Scalable+Systems;Intern+%40PopularDigitalAI;CS+Student+(Christ+University,+India)+%2B+Ex-Exchange+(THWS,+Germany);Full+Stack+(Web%2C+Mobile%2C+Backend)" />
 </p>
 
 ---
 
 ## ⚔️ About Me  
 
-- 🏛️ **Open Source Engineer** – Shipping production code to **Matrix.org** & **Element-hq**.
+- 🏛️ **Open Source Engineer** – Currently contributing to **Matrix.org** & **Element-hq**.
 - 💻 **Versatile Developer** – Building **Web** (React/Next.js), **Mobile** (Flutter), and **Backend** (Node.js/Python) systems.
 - 🎓 **Background** – CS Student at **Christ University, India** & Exchange Alumnus at **THWS, Germany** 🇩🇪.
 - 🛡️ **Engineering Philosophy** – Precision, Reliability, and Scalability.
