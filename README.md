@@ -3,32 +3,34 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Full+Stack+Developer+%7C+AI+Researcher;Building+LLMs+%26+OCR+Tech;Global+Tech+Scholar+(THWS+Germany);Transforming+Ideas+into+Scalable+Code;Code+with+Purpose%2C+Innovate+for+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&color=D4AF37&background=00000000&lines=Contributor+%40matrix-org+%26+%40element-hq;Building+Secure+%26+Scalable+Systems;Intern+%40PopularDigitalAI;CS+Student+(Christ+Univ)+%2B+Ex-Exchange+(THWS+DE);Full+Stack+(TS%2C+Python%2C+Solidity)" />
 </p>
 
 ---
 
 ## ⚔️ About Me  
 
-- 🎓 **BCA Scholar at CHRIST University** & **Exchange Alumnus at THWS, Germany** - 💻 **Full Stack Specialist** – React, Flutter, Node.js  
-- 🤖 **AI Innovator** – LLMs, OCR, Indic NLP  
-- 🛡️ **Engineering Philosophy** – Precision, Scalability, Global Perspective  
-- 🚀 **Mission** – Solving real-world urban & linguistic challenges using AI  
+- 🏛️ **Open Source Engineer** – Shipping production code to **Matrix.org** & **Element-hq**.
+- 💻 **Versatile Developer** – Building **Web** (React/Next.js), **Mobile** (Flutter), and **Backend** (Node.js/Python) systems.
+- 🎓 **Background** – CS Student at **Christ University, India** & Exchange Alumnus at **THWS, Germany** 🇩🇪.
+- 🛡️ **Engineering Philosophy** – Precision, Reliability, and Scalability.
+- 🚀 **Focus** – Full Stack Development, Cross-Platform Apps, and AI Infrastructure.
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,java,cpp,react,flutter,nodejs,firebase,tensorflow,pytorch,git,docker,linux,androidstudio,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,solidity,nextjs,postgres,docker,git,linux,tensorflow,firebase,cpp,dart,flutter,figma&perline=8" />
 </p>
 
 ---
 
-## 💡 Innovation Highlights  
-- 🧠 **LLM & OCR** – linguistic optimization & handwriting OCR (Transformers + Tesseract).
-- 🚦 **Smart City Dashboard** – real-time Bengaluru traffic management.
-- 🌐 **SyncSavr** – cross-platform app designed to track expiring groceries in your fridge and provide recipe recommendations.
-- 📊 **Neo-Fund** - cross platform investment learning platform for teens.
+## 💡 Innovation & Engineering Highlights  
+
+- 🟢 **Matrix.org SDK Core Contributor** – [PR #5135] Architected and shipped a critical fix for **reactive user disambiguation** in the `matrix-js-sdk`. Solved complex race conditions in state event handling for the decentralized communication protocol used by millions.
+- 🧪 **Element Web Reliability** – [PR #31707] Stabilized the CI/CD pipeline for the Element frontend by replacing flaky time-based assertions with event-driven logic (`waitFor`), reducing build failures.
+- 🤖 **CallMetriK (Internship Project)** – Developed an internal tooling platform to visualize AI voice agent metrics, significantly reducing manual reporting time. Built using **React**, **TypeScript**, and **Python**.
+- 🧠 **Neural & Linguistic AI** – Previously Researched Handwriting OCR & Indic NLP optimization using Transformers.
 
 ---
 
