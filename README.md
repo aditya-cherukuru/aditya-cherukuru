@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-cherukuru&currStreakNum=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&theme=dark&background=000000&ring=D4AF37&stroke=D4AF37" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🧮 Contributions
